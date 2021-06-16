@@ -4,5 +4,6 @@ public class HelloWorld {
         System.out.println("王宇峰1");
         System.out.println("王宇峰2");
         System.out.println("刘坤坤");
+        System.out.println(112234);
     }
 }

@@ -6,5 +6,8 @@ public class HelloWorld {
         System.out.println("刘坤坤");
         System.out.println(112234);
         System.out.println("aaaa");
+        System.out.println("bbb");
+        System.out.println("ccc");
+        System.out.println("ddd");
     }
 }
